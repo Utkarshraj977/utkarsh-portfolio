@@ -1,5 +1,5 @@
 {
-  "name": "raashed-portfolio-clone",
+  "name": "vivek-kumar-jain-portfolio",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -10,14 +10,12 @@
   },
   "dependencies": {
     "@vitejs/plugin-react": "latest",
+    "@tailwindcss/vite": "latest",
     "framer-motion": "latest",
     "lucide-react": "latest",
-    "react-icons": "latest",
     "react": "latest",
-    "react-dom": "latest"
-  },
-  "devDependencies": {
-    "@tailwindcss/vite": "latest",
+    "react-dom": "latest",
+    "react-icons": "latest",
     "tailwindcss": "latest",
     "vite": "latest"
   }

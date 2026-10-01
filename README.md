@@ -1,22 +1,21 @@
-# Utkarsh Raj Portfolio — Updated One-Page UI
+# Vivek Kumar Jain Portfolio
 
-## Run locally
+Tailwind CSS + React + Vite portfolio recreated around the supplied reference video layout.
+
+## Run
 
 ```bash
-cd frontend
 npm install
 npm run dev
 ```
 
-Open the URL printed by Vite, normally `http://localhost:5173`.
+## Stack
 
-## Packages used
+- React
+- Vite
+- Tailwind CSS v4
+- Framer Motion
+- Lucide React
+- React Icons
 
-- `react`, `react-dom` — React UI
-- `vite`, `@vitejs/plugin-react` — development server and build
-- `tailwindcss`, `@tailwindcss/vite` — Tailwind CSS v4
-- `lucide-react` — navigation and UI icons
-
-The one-page UI keeps the second ZIP's dark glassmorphism style and now uses the original portfolio data for Utkarsh Raj. It contains only the collabX and Gramin-Vikas-Portal project cards, with working Live Demo and Source Code links. Social links are GitHub, LinkedIn, LeetCode and GeeksforGeeks.
-
-Required project assets are in `public/assets/`.
+The portfolio uses Vivek Kumar Jain's project, achievement, skill, social and contact data.
